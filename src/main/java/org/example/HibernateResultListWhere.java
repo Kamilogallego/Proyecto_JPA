@@ -2,7 +2,6 @@ package org.example;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.Query;
-import org.example.utils.JpaUtil;
 
 import java.util.List;
 import java.util.Scanner;

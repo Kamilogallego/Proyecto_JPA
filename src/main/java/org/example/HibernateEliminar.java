@@ -1,8 +1,7 @@
 package org.example;
 
 import jakarta.persistence.EntityManager;
-import org.example.utils.JpaUtil;
-//
+
 import java.util.Scanner;
 
 public class HibernateEliminar {
